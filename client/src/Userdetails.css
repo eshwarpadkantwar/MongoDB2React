@@ -1,0 +1,33 @@
+.usertable {
+    
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+
+.usertable th, .usertable td {
+    border: 1px solid black;
+    padding: 8px;
+    gap: 20px;
+}
+
+.usertable th {
+    background-color: rgb(130, 214, 130);
+}
+
+
+
+.usertable{
+    display: inline-block;
+    position: relative;
+    height: 200px;
+    width: auto;
+    top: 100px;
+    left: 500px;
+}
