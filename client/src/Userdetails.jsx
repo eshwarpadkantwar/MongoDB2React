@@ -21,6 +21,7 @@ function Userdetails() {
 
     return (
         <div className="usertable">
+            <h1>User Table</h1>
             <table >
                 <thead>
                     <tr>

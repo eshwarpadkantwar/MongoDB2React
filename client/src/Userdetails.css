@@ -9,7 +9,10 @@
     width: 100%;
 }
 
-
+h1{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 .usertable th, .usertable td {
     border: 1px solid black;
@@ -28,6 +31,6 @@
     position: relative;
     height: 200px;
     width: auto;
-    top: 100px;
-    left: 500px;
+    top: 70px;
+    left: 400px;
 }
